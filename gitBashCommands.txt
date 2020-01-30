@@ -1,0 +1,15 @@
+cd git
+git init
+git add demo.txt
+git status
+git config user.name 'manu549'
+git config user.email 'manujalli1234@gmail.com'
+$ git commit -m 'Initial Commit'
+$ mkdir jntua-python
+
+Manu_Jalli@LAPTOP-A3O6CVBM MINGW64 ~/desktop/git (master)
+$ git remote add jntua-python https://github.com/manu549/jntua-python
+
+Manu_Jalli@LAPTOP-A3O6CVBM MINGW64 ~/desktop/git (master)
+$ git remote show
+jntua-python
